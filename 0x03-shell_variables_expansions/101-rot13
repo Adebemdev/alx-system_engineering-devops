@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Rot13 is a simple encryption algorithm that works by shifting each letter in the message 13 places forward in the alphabet" | tr 'A-Za-z' 'N-ZA-Mn-za-m' -d 
+echo " Everyone is a proponent of strong encryption" | tr 'A-Za-z' 'N-ZA-Mn-za-m' -d 
