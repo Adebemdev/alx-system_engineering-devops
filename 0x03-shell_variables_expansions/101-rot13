@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, Wolrd" | tr 'A-Za-z' 'N-ZA-Mn-za-m' -d 
+echo "name" | tr 'A-Za-z' 'N-ZA-Mn-za-m' -d 
