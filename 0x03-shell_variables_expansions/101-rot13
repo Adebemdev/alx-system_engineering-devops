@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "name" | tr 'A-Za-z' 'N-ZA-Mn-za-m' -d 
+echo "text to encrypt or decrypt" | tr 'A-Za-z' 'N-ZA-Mn-za-m' -d 
